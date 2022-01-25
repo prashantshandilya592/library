@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: linear-gradient(to bottom, #d695ba, #f698a4, #ffa485, #fabb6a, #d8d663, #c9e06c, #b8e979, #a5f289, #bbee86, #cee986, #dde589, #e9e18f);
+    background-color: blue;
 }
 
 .add-btn{
